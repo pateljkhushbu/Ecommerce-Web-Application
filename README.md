@@ -1,4 +1,6 @@
 # Ecommerce Web Applicaion 
-# Developed using java language and a Maven based Project
-# Eclipse IDE 
-# Used MVC model
+
+1. Developed using java language
+2. Maven based Project
+3. Eclipse IDE 
+4. Used MVC model
